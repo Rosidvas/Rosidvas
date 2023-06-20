@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Rosidvas)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosidvas)](https://github.com/Rosidvas)
 <!--
 **Rosidvas/Rosidvas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
