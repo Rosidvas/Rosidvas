@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there stranger👋
 - 🔭 I’m currently working on a Chatbot
 - 🌱 I’m currently learning Python
 
