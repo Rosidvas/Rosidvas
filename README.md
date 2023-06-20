@@ -2,11 +2,9 @@
 - 🔭 I’m currently working on a Chatbot
 - 🌱 I’m currently learning Python
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosidvas)](https://github.com/Rosidvas)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosidvas&layout=donut)](https://github.com/Rosidvas)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Florian-Portmann)](https://github.com/Florian-Portmann)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Florian-Portmann&layout=donut)](https://github.com/Florian-Portmann)
 )
