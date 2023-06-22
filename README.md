@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosidvas&layout=donut)](https://github.com/Rosidvas)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanaskovicdavid&layout=donut)](https://github.com/tanaskovicdavid)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonFerrari&layout=donut)](https://github.com/DonFerrari)
 <!--
 **Rosidvas/Rosidvas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
