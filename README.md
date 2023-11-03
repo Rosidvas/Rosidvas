@@ -1,6 +1,6 @@
 ### Hello there stranger👋
-- 🔭 I’m currently working on a Chatbot
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on a Virtual Pet
+- 🌱 I’m currently grasping Machine Learning
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosidvas&layout=donut)](https://github.com/Rosidvas)
 
