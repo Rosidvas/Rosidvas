@@ -1,6 +1,6 @@
 ### Hello there stranger👋
-- 🔭 I’m currently working on a Virtual Pet
-- 🌱 I’m currently grasping Machine Learning
+- 🔭 I’m currently working on a personal virtual assistant
+- 🌱 I’m currently grasping Deeplearning - Computer Vision and NLP
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosidvas&layout=donut)](https://github.com/Rosidvas)
 
